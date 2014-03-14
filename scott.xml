@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<configuration>
+<property>
+<name>convert2fahrenheit</name><value>true</value>
+</property>
+</configuration>
